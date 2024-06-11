@@ -4,5 +4,6 @@ public class jisooTest {
 
     public static void main(String[] args) {
         System.out.println("jisoo");
+        System.out.println("jisoo2");
     }
 }
